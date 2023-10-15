@@ -1,2 +1,2 @@
 # hello-world
-quickstart
+quickstart - < write a long description for your project >
